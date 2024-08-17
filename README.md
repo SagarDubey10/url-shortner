@@ -51,4 +51,4 @@ TECHNOLOGIES USED
 
 LICENSE
 -------
-This project is licensed under the MIT License. See the LICENSE file for deta
+This project is licensed under the MIT License. See the LICENSE file for details.
